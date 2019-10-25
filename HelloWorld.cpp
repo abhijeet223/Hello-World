@@ -2,7 +2,10 @@
 using namespace std;
 
 int main()
-{
-    cout <<"\nHello World"<< endl;
+{ 
+    for(int i = 0; i<5; i++)
+    {
+    cout <<"\nHello World"<< endl; 
+}
     return 0;
 }
